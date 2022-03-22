@@ -35,3 +35,4 @@ v0.3.6.tar.gz
 metrics-server-*
 kubernetes-dashboard-admin.rbac.yaml
 kubeconfig_*
+*_config
